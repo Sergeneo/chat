@@ -64,9 +64,10 @@ You can use the following test accounts:
 ## 📸 Screenshots
 
 ### Chat Interface
+![Chat](uploads/chat.jpg)
 
 ### Admin Panel
-
+![Chat](uploads/admin.jpg)
 
 ---
 
